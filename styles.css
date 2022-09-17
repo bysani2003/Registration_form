@@ -1,0 +1,31 @@
+.jumbotron-fluid{
+    background: linear-gradient(to right, #2B32B2, #1488CC);
+    color: white;
+}
+.card-img-top{ 
+    height:65%;
+}
+.card{
+    background: green;
+    color: black;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+
+
+
+
+
+.jumbotron{
+    align-items: center;
+    font-family: Times;
+}
+.p{
+text-align: center;
+    border-radius: 5px 5px 0 0;
+    color: #5DADE2;
+    font-size: 25px;
+    font-weight: 600;
+}
